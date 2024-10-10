@@ -19,4 +19,4 @@ Uma interface interativa que permite tocar bateria usando as letras do teclado. 
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Nicolassmith7/Projeto-Instrumento-Musical.git
